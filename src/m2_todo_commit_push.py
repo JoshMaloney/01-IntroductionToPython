@@ -1,4 +1,5 @@
 print('Hello, World')
+print ('my name is Josh')
 
 ###############################################################################
 #
@@ -17,7 +18,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 1.
+# Done: 1.
 #   The TO-DO comment above this one indicates that there is something for
 #   you to do.
 #
@@ -33,7 +34,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 2.
+# Done: 2.
 #
 #   Notice that TODO's turn blue even inside of comments. This helps you
 #   find them easier when you are looking for what you still need to do.
@@ -58,7 +59,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 3.
+# Done: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want.
 #
@@ -71,7 +72,7 @@ print('Hello, World')
 
 ###############################################################################
 #
-# TODO: 4.
+# done: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you.
@@ -85,10 +86,10 @@ print('Hello, World')
 #   value is wrong.
 #
 ###############################################################################
-
+print (3607 * 34227)
 ###############################################################################
 #
-# TODO: 5.
+# done : 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_todo_and_commit_push.py) now has a 'U' or maybe an 'M' next 
 #   to it.
